@@ -10,8 +10,8 @@ let
   simulaSrc = pkgs.fetchFromGitHub {
     owner = "SimulaVR";
     repo = "Simula";
-    rev = "f1690c513b33d8238f213de944f44c273ec0c513";
-    sha256 = "1kcyak663lnyqfy6s8ym1ybm7kwslw9vy9ddqzjnx125bi31rb63";
+    rev = "7497ada3e415299c88cefed9e58ffec8a654362e";
+    sha256 = "04kqlgs740784642fbbypfyv3wa3ddqd9d764wadhjr36mf2rqi6";
     fetchSubmodules = true;
   };
 
